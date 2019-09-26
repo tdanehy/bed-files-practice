@@ -1,3 +1,4 @@
+# article on dark and camoflaged genes research: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1707-2
 # bed file source: https://github.com/mebbert/Dark_and_Camouflaged_genes
 library("GenomicDistributions", lib.loc="/Library/Frameworks/R.framework/Versions/3.6/Resources/library")
 
